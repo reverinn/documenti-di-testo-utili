@@ -87,6 +87,9 @@
 
 **INTRODUZIONE A PYTHON**:
 * Informazioni Generali su Python
+* Come sono i valori e le variabili ?
+* Elementi di Semantica
+* Type Checking
 
 **PARADIGMA LOGICO:**
 * Essenza del Paradigma Logico
