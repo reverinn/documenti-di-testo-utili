@@ -41,7 +41,7 @@
 * Cosa è l'Aliasing? e una Macro? 
 * Funzioni
 
-**JAVA: IL SISTEMA DEI TIPI E I TIPI WRAPPER**:
+**JAVA: IL SISTEMA DEI TIPI E I TIPI WRAPPER:**
 
 * Com'è il linguaggio Java? cosa consente questo al compilatore?
 * Quali sono i tipi base di Java e cosa sono le conversioni implicite
@@ -60,3 +60,14 @@
 * Chi estendono le classi wrapper numeriche ?
 * Autoboxing e Auto-Unboxing: come funzionano con le conversioni ?
 * Come si vede l'uguaglianza tra dei tipi Wrapper?
+
+**POLIMORFISMO:**
+* Qual è la differenza di poliformismo *ad hoc* e *universale*?
+* Fai degli esempi
+
+**MODIFICATORI IN JAVA:**
+* Quali sono i modificatori principali e come funzionano?
+* Modificatori Aggiuntivi: final (casi specifici), static (attributi e metodi), abstract
+* blocchi di inizializzazione static
+
+**STRING & STRINGBUFFER:**
