@@ -70,4 +70,39 @@
 * Modificatori Aggiuntivi: final (casi specifici), static (attributi e metodi), abstract
 * blocchi di inizializzazione static
 
-**STRING & STRINGBUFFER:**
+**STRING & STRINGBUFFER:** //MOMENTANEAMENTE SOSPESO CAUSA PREAVVISO BELLO E BUONO DI AVVISO DOMANI DEVO PREPARARE LE COSE PIU IMPORTANTI
+
+**META LANGUAGE**:
+* Cosa prevede il paradigma funzionale?
+* Com'è tipato ML? 
+* Caratteristiche Generali (4)
+* Liste in Ml: 
+  - Principali Operatori
+  - Funzioni Aggiuntive
+  - Funzioni di ordine superiore
+* Currying
+* Encapsulation & Interfacce
+* Functors
+* Eccezioni
+
+**INTRODUZIONE A PYTHON**:
+* Informazioni Generali su Python
+
+**PARADIGMA LOGICO:**
+* Essenza del Paradigma Logico
+* Prolog:
+    - Costrutti Base
+    - Fatti & Regole
+    - Queries
+    - Ground & NonGround
+    - Unificazione
+    - Search Tree
+    - Algebra Relazionale
+    - Negazioni
+    - Liste in Prolog:
+        - Costruttore
+        - Predicato Member 
+        - Parametri Input e Output
+        - Calcolo Simbolico su Prolog
+        - Calcolo Simbolico delle Derivate
+        - Programmazione Non Deterministica
