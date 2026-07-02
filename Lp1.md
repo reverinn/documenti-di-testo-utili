@@ -38,10 +38,8 @@
 * Associazione di questi due tipi di parametri
 * Parametri IN OUT IN-OUT e cosa provoca errori
 * Associazione di default \& effetti collaterali
-* Ordine di valutazione dei parametri attuali
 * Cosa è l'Aliasing? e una Macro? 
 * Funzioni
-
 
 
 
