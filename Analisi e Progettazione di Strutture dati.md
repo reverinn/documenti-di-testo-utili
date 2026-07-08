@@ -3,4 +3,6 @@
 * [x] Pseudocodice + Funzionamento di Dijkstra
 * [x] Reimparare la BFS e i tipi di archi in una DFS
 * [x] Reimparare i tipi di visita negli alberi (PREORDER, POSTORDER, INORDER)
-* [] Ripetizione vecchi algoritmi
+* [] Ripetizione esercizi ricorsivi sugli alberi
+* [] Reimparare gli Pseudocodici più importanti
+* [] (P.S.:non fondamentale) Imparare gli esercizi sul grafo
