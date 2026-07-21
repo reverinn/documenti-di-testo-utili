@@ -1,3 +1,5 @@
-#**CAPITOLO 1: LOGICA RUDIMENTALE:**
+**CAPITOLO 1: LOGICA RUDIMENTALE:**
 * [] Proposizioni Logiche & Connettivi Logici
-* *\Proposizione*: Quando due forme proposizionalo sono equivalenti?
+    * *4 Proprietà dei Connettivi Logici:* scrivi le tautologie
+* [] Quando una proposizione logica si dice tautologia, contraddizione o contingente?
+* *Proposizione*: Quando due forme proposizionalo sono equivalenti?
