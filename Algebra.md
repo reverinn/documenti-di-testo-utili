@@ -3,4 +3,4 @@
     * *4 Proprietà dei Connettivi Logici:* scrivi le tautologie
     * *Osservazione:* Quando si usa lo stesso connettivo, ha senso l'ordine delle parentesi ? 
 * Quando una proposizione logica si dice tautologia, contraddizione o contingente?
-* *Proposizione*: Quando due forme proposizionalo sono equivalenti?
+* *Proposizione*: Quando due forme proposizionali sono equivalenti?
