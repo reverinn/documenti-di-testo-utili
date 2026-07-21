@@ -11,4 +11,8 @@
         * *Proposizione:* Come si scrive ~(p==>q) ? 
         * *Proposizione:* Transitività dell'operatore di implicazione
         * *Proposizione:* (~(p<==>q)) <==> ? [3 Opzioni]
-* Che informazioni fornisce dire che un'implicazione è falsa?         
+* Che informazioni fornisce dire che un'implicazione è falsa?
+* Tautologie dello XOR [P.S. d.e. sta per disgiunto esclusivamente]
+    * Proprietà Associativa della Disgiunzione Esclusiva + Dimostrazione         
+    * *Osservazione:* p d.e. q <==> ?? [2 Opzioni]
+    * *Proposizione:* a /\ (b d.e. c) <==> (a /\ b) d.e. (a /\ c)
