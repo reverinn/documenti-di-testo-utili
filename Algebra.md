@@ -16,3 +16,12 @@
     * Proprietà Associativa della Disgiunzione Esclusiva + Dimostrazione         
     * *Osservazione:* p d.e. q <==> ?? [2 Opzioni]
     * *Proposizione:* a /\ (b d.e. c) <==> (a /\ b) d.e. (a /\ c)
+* Quantificatori
+    * Quando una formula si dice valida ? 
+    * Quantificatore *universale* e *esistenziale*
+    * Qual è il terzo quantificatore più frequente?
+        * da quale equivalenza è definito ? [Mini-Dimostrazione]
+    * Che vuol dire che una variabile è a occorrenza libera o vincolata?
+        * data la definizione precedente, quando una formula si dice chiusa ? 
+        * data la definizione precedente, cosa è un predicato unario/binario? 
+        * *Quantificatori Ristretti*: i due quantificatori sono precisamente uguali? entrambi implicano l'altro ? 
