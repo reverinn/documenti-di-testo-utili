@@ -31,3 +31,13 @@
     * Perchè è fallita poi come definizione? cosa possiamo fare se restringiamo il campo a un insieme s?
 * Com'è definita l'estensione di un predicato unario? Con che formula lo si può scrivere ?
 * Cosa dice *l'assioma di separazione*?
+* Cosa dice *l'assioma di estensionalità*?
+* *Osservazione*: 1. la formula per ogni x appartenente al vuoto x =! x è vera ? 
+                  2. la formula esiste x appartenente al vuoto tale che phi è vera ? 
+* a e {a} sono la stessa cosa ? come viene chiamato {a} ? 
+* Inclusione di due insiemi a e b
+    * formula 
+    * come viene detto a ? 
+    * Dimostra che l'insieme vuoto è un sottoinsieme di qualsiasi insieme, è possibile dire che un insieme è sottoinsieme di se stesso ? 
+    * dati gli insiemi noti h e k, che vuol dire che h è incluso in k ? 
+    * cosa cambia se a è incluso *esclusivamente* in b? 
