@@ -41,3 +41,7 @@
     * Dimostra che l'insieme vuoto è un sottoinsieme di qualsiasi insieme, è possibile dire che un insieme è sottoinsieme di se stesso ? 
     * dati gli insiemi noti h e k, che vuol dire che h è incluso in k ? 
     * cosa cambia se a è incluso *esclusivamente* in b? 
+* Insieme delle parti di x
+    * Da cosa è composto ? 
+    * Formula
+    * Come mai questo insieme è sicuramente non vuoto ?     
