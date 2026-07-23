@@ -44,5 +44,16 @@
 * Insieme delle parti di x
     * Da cosa è composto ? 
     * Formula
-    * Come mai questo insieme è sicuramente non vuoto ?     
+    * Come mai questo insieme è sicuramente non vuoto ? 
+    * Cos'è l'insieme delle parti n-arie?    
 * *TEOREMA CON DIMOSTRAZIONE*: Vale la tautologia a = b <==> ((a ⊆ b) ⋏ (b ⊆ a)) 
+* Operazioni Insiemistiche: 
+    * Intersezione --> quando due insiemi si dicono disgiunti? 
+    * Unione --> come posso usare i connettivi logici per esprimere le due operazioni ora citate ?
+    * Differenza Insiemistica --> che succede se a è un sottoinsieme di b ? [Mini-Dimostrazione]
+    * Differenza simmetrica
+* Leggi di De Morgan + Dimostrazione
+* Operazioni Unarie: 
+    * Unione Unaria: Cosa è e formula [RICORDA: Allarga, Esiste]
+        * caso con c = {a,b} dove tutti e tre sono insiemi
+    * Intersezione Unaria: Cosa è e formula [RICORDA: Restringe, Perogni]
