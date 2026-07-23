@@ -57,3 +57,9 @@
     * Unione Unaria: Cosa è e formula [RICORDA: Allarga, Esiste]
         * caso con c = {a,b} dove tutti e tre sono insiemi
     * Intersezione Unaria: Cosa è e formula [RICORDA: Restringe, Perogni]
+* Prodotto Cartesiano di Insiemi: 
+    * formula
+    * Proposizione + Dimostrazione: {{a}, {a,b}} = {{c}, {c,d}} <==> a = c ⋏ b = d
+        * Definizione di coppia ordinata secondo Kuratowski
+    * Cosa è una terna ordinata? 
+        * Cosa succede se ho ((a,b), c) = ((d,e), f)? come si dimostra ?
