@@ -63,3 +63,5 @@
         * Definizione di coppia ordinata secondo Kuratowski
     * Cosa è una terna ordinata? 
         * Cosa succede se ho ((a,b), c) = ((d,e), f)? come si dimostra ?
+
+**CAPITOLO 3: CORRISPONDENZE E RELAZIONI DI EQUIVALENZA**
