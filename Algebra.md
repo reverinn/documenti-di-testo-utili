@@ -28,3 +28,6 @@
 
 **CAPITOLO 2: TEORIA DEGLI INSIEMI:**
 * Definizione di insieme --> com'era visto inizialmente?
+    * Perchè è fallita poi come definizione? cosa possiamo fare se restringiamo il campo a un insieme s?
+* Com'è definita l'estensione di un predicato unario? Con che formula lo si può scrivere ?
+* Cosa dice *l'assioma di separazione*?
