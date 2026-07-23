@@ -25,3 +25,6 @@
         * data la definizione precedente, quando una formula si dice chiusa ? 
         * data la definizione precedente, cosa è un predicato unario/binario? 
         * *Quantificatori Ristretti*: i due quantificatori sono precisamente uguali? entrambi implicano l'altro ? 
+
+**CAPITOLO 2: TEORIA DEGLI INSIEMI:**
+* Definizione di insieme --> com'era visto inizialmente?
