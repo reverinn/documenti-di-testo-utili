@@ -17,7 +17,7 @@
     * *Osservazione:* p d.e. q <==> ?? [2 Opzioni]
     * *Proposizione:* a /\ (b d.e. c) <==> (a /\ b) d.e. (a /\ c)
 * Quantificatori
-    * Quando una formula si dice valida ? 
+    * Quando una formula si dice valida ?   
     * Quantificatore *universale* e *esistenziale*
     * Qual è il terzo quantificatore più frequente?
         * da quale equivalenza è definito ? [Mini-Dimostrazione]
@@ -45,3 +45,4 @@
     * Da cosa è composto ? 
     * Formula
     * Come mai questo insieme è sicuramente non vuoto ?     
+* *TEOREMA CON DIMOSTRAZIONE*: Vale la tautologia a = b <==> ((a ⊆ b) ⋏ (b ⊆ a)) 
