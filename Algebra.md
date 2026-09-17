@@ -131,7 +131,7 @@
   
 
 **CAPITOLO 3: CORRISPONDENZE E RELAZIONI DI EQUIVALENZA**
-Corrispondenze e Relazioni Binarie
+* Corrispondenze e Relazioni Binarie
 	* quando, dati due insiemi a e b parliamo di corrispondenza ? 
 	* come si dice l'insieme G?
 	* come facciamo a scrivere che due elementi sono in corrispondenza mediante p?
@@ -139,3 +139,13 @@ Corrispondenze e Relazioni Binarie
 		* Formula
 		* Cosa è una relazione binaria ? 
 			* relazione binaria identica & totale
+	 * relazione opposta di p = (s,s,G)
+	 * proprietà delle relazioni binarie [Con Formule!]
+* Prodotto Relazionale
+	* Definizione di Prodotto Relazionale
+	* Associatività del Prodotto Relazione [Teorema con Dimostrazione]
+	* idA & idB
+* Applicazioni
+	* cosa è un applicazione ? come la si indica ? 
+	* come viene chiamato b se f(a) = b?
+	* come si chiama e come viene indicato l'insieme delle applicazioni da A a B?
