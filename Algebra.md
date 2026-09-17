@@ -157,9 +157,19 @@
 	*  Applicazione Immagine e Anti-immagine [2 Proposizioni] 
 		* Osservazione su C € P(A) e Y € P(B)
 	* Composizione tra applicazioni [Proposizione + Dimostrazione]
-	* Suriettività e Iniettività
+	* Suriettività
 		* definizione di applicazione iniettiva
 		* [Proposizione] retrazione iniettiva
-		* [Proposizione] f iniettiva sse il modulo dell'antimmagine del singleton Y € A è <= 1 [Con Dimostrazione]
+		* [Proposizione] f iniettiva sse il modulo dell'antimmagine del singleton Y € B è <= 1 [Con Dimostrazione]
 		* [Proposizione] f,g iniettiva => f o g iniettiva [Con Dimostrazione]
 		* [Proposizione] f o g iniettiva => f iniettiva [Con Dimostrazione]
+	* Iniettività
+		* definizione di applicazione suriettiva
+		* [Proposizione] f suriettiva sse il modulo dell'antimmagine del singleton Y non è vuoto [Con Dimostrazione]
+		* [Proposizione] negazione della definizione
+		* [Proposizione] f, g suriettive => f o g suriettiva
+		* [Proposizione] f o g suriettiva => g suriettiva
+	* Biettività
+		* definizione di applicazione biettiva
+		* [Proposizione] tautologie con definizione di applicazione biettiva
+		* [Corollario] f, g biettive => f o g biettive, g o f biettiva => g suriettiva e f iniettiva
