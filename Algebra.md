@@ -156,3 +156,8 @@
 		4. Riduzione
 	*  Applicazione Immagine e Anti-immagine [2 Proposizioni] 
 		* Osservazione su C € P(A) e Y € P(B)
+	* Composizione tra applicazioni [Proposizione + Dimostrazione]
+	* Suriettività e Iniettività
+		* definizione di applicazione iniettiva
+		* [Proposizione] retrazione iniettiva
+		* [Proposizione] f iniettiva sse il modulo dell'antimmagine del singleton Y € A è <= 1 [Con Dimostrazione]
