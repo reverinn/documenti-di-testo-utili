@@ -149,3 +149,8 @@
 	* cosa è un applicazione ? come la si indica ? 
 	* come viene chiamato b se f(a) = b?
 	* come si chiama e come viene indicato l'insieme delle applicazioni da A a B?
+	* Serie di Definizioni:
+		1. Immagine
+		2. Costante (e funzione costante h)
+		3. Restrizione & Immersione [Con L'Osservazione]
+		4. Riduzione
