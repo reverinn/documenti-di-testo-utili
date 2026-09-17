@@ -73,3 +73,11 @@
         * Cosa succede se ho ((a,b), c) = ((d,e), f)? come si dimostra ?
 
 **CAPITOLO 3: CORRISPONDENZE E RELAZIONI DI EQUIVALENZA**
+* Corrispondenze e Relazioni Binarie
+	* quando, dati due insiemi a e b parliamo di corrispondenza ? 
+	* come si dice l'insieme G?
+	* come facciamo a scrivere che due elementi sono in corrispondenza mediante p?
+	* Cosa indica il simbolo Corr(a,b)? 
+		* Formula
+		* Cosa è una relazione binaria ? 
+			* relazione binaria identica & totale
