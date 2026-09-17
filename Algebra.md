@@ -154,3 +154,5 @@
 		2. Costante (e funzione costante h)
 		3. Restrizione & Immersione [Con L'Osservazione]
 		4. Riduzione
+	*  Applicazione Immagine e Anti-immagine [2 Proposizioni] 
+		* Osservazione su C € P(A) e Y € P(B)
