@@ -161,3 +161,5 @@
 		* definizione di applicazione iniettiva
 		* [Proposizione] retrazione iniettiva
 		* [Proposizione] f iniettiva sse il modulo dell'antimmagine del singleton Y € A è <= 1 [Con Dimostrazione]
+		* [Proposizione] f,g iniettiva => f o g iniettiva [Con Dimostrazione]
+		* [Proposizione] f o g iniettiva => f iniettiva [Con Dimostrazione]
