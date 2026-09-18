@@ -181,4 +181,10 @@
 	* Applicazioni Inverse
 		* [Teorema] se f: A-->B, f ha una sezione sigma e una retrazione p, allora sigma=p è un'inversa di f e inoltre è l'unica [Con Dimostrazione]
 		* Corollario: Come si indica l'inversa di f ? a cosa equivale ? 
-		 
+	* Relazioni di Equivalenza
+		* proprietà delle relazioni di equivalenza
+		* come si indica l'insieme delle relazioni di equivalenza?
+		* definizione di classe di equivalenza
+		* [Teorema Fondamentale Sulle Partizioni] definizione di biezione canonica e dimostrazione che essa è biettiva
+		* definizione di proiezione canonica, è suriettiva/iniettiva o biettiva?
+		* nucleo di equivalenza e coimmagine di f
