@@ -178,3 +178,7 @@
 		* [Teorema] f è suriettiva sse f ha una sezione [Con Dimostrazione]
 		* Definizione di Retrazione
 		* [Teorema] f è iniettiva sse A è vuoto e f ha una retrazione [Con Dimostrazione]
+	* Applicazioni Inverse
+		* [Teorema] se f: A-->B, f ha una sezione sigma e una retrazione p, allora sigma=p è un'inversa di f e inoltre è l'unica [Con Dimostrazione]
+		* Corollario: Come si indica l'inversa di f ? a cosa equivale ? 
+		 
