@@ -107,3 +107,8 @@
 		* [Teorema Fondamentale Sulle Partizioni] definizione di biezione canonica e dimostrazione che essa è biettiva
 		* definizione di proiezione canonica, è suriettiva/iniettiva o biettiva?
 		* nucleo di equivalenza e coimmagine di f
+		* [Lemma + Dimostrazione] classe di equivalenza in R = l'antimmagine del singleton dell'immagine
+		* [Teorema Omomorfismo per Insiemi + Dimostrazione]
+		* Cosa è la fattorizzazione canonica?
+
+**CAPITOLO 4: TECNICHE DI ENUMERAZIONE**
