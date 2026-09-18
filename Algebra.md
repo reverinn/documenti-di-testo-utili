@@ -173,3 +173,8 @@
 		* definizione di applicazione biettiva
 		* [Proposizione] tautologie con definizione di applicazione biettiva
 		* [Corollario] f, g biettive => f o g biettive, g o f biettiva => g suriettiva e f iniettiva
+	* Sezione e Retrazione
+		* Definizione di Sezione
+		* [Teorema] f è suriettiva sse f ha una sezione [Con Dimostrazione]
+		* Definizione di Retrazione
+		* [Teorema] f è iniettiva sse A è vuoto e f ha una retrazione [Con Dimostrazione]
