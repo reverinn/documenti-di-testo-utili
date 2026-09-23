@@ -130,5 +130,10 @@
 			 alfa: T -> X(T,S) € Map(S, {0,1})
 			  beta: f € Map(S, {0,1}) -> anti-immagine f({1}) € P(S)
 	 - Quanti elementi ha l'insieme P(S) ? 
-	 - Come si misura la cardinalità di Pk(S) ? 
-		 - Coefficienti Binomiali Noti
+- Coefficiente Binomiale
+	- Definizione (Usando Pk(S))
+	- Coefficienti Binomiali Noti
+	- [3 Proposizioni con Dimostrazione] 
+- Principio di Induzione
+	- Definizione (Formula)
+	- [Teorema con dimostrazione per passo induttivo] (n k) = n! / k!(n-k)!
