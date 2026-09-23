@@ -119,4 +119,10 @@
 - Insiemi Finiti
 	- [Proposizione con Dimostrazione] |A x B| = nm
 	- [Lemma con Dimostrazione] |Map(A,B)| = m^n
-	- 
+	- Condizione di Esistenza di Applicazioni Iniettive in B^A [Con Dimostrazione]
+	- Come si può scrivere |InjMap(A,B)|?
+	- [Teorema + Dimostrazione] Condizioni di Esistenza di applicazioni (iniettive, suriettive e biettive)
+	- [Teorema + Dimostrazione] Dati due insiemi equipotenti e f: A ->B allora è equivalente dire che f è iniettiva, suriettiva e biettiva
+	- Se A e B sono equipotenti, |InjMap(A,B)| = ?
+	- quando un insieme si dice infinito (2 definizioni)
+	- che cardinalità ha l'insieme delle permutazioni di un insieme A?
