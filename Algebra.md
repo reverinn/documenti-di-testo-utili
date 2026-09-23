@@ -126,3 +126,9 @@
 	- Se A e B sono equipotenti, |InjMap(A,B)| = ?
 	- quando un insieme si dice infinito (2 definizioni)
 	- che cardinalità ha l'insieme delle permutazioni di un insieme A?
+	- [Teorema + Dimostrazione] dimostra che sono opposte:
+			 alfa: T -> X(T,S) € Map(S, {0,1})
+			  beta: f € Map(S, {0,1}) -> anti-immagine f({1}) € P(S)
+	 - Quanti elementi ha l'insieme P(S) ? 
+	 - Come si misura la cardinalità di Pk(S) ? 
+		 - Coefficienti Binomiali Noti
