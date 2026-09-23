@@ -112,3 +112,11 @@
 		* Cosa è la fattorizzazione canonica?
 
 **CAPITOLO 4: TECNICHE DI ENUMERAZIONE**
+- Cardinalità
+	- come si indica?
+	- qual è la cardinalità dell'unione e dell'intersezione?
+		- come quest'ultima interagisce con la prima ? 
+- Insiemi Finiti
+	- [Proposizione con Dimostrazione] |A x B| = nm
+	- [Lemma con Dimostrazione] |Map(A,B)| = m^n
+	- 
