@@ -76,13 +76,13 @@
 	*  Applicazione Immagine e Anti-immagine [2 Proposizioni] 
 		* Osservazione su C € P(A) e Y € P(B)
 	* Composizione tra applicazioni [Proposizione + Dimostrazione]
-	* Suriettività
+	* Iniettività
 		* definizione di applicazione iniettiva
 		* [Proposizione] retrazione iniettiva
 		* [Proposizione] f iniettiva sse il modulo dell'antimmagine del singleton Y € B è <= 1 [Con Dimostrazione]
 		* [Proposizione] f,g iniettiva => f o g iniettiva [Con Dimostrazione]
 		* [Proposizione] f o g iniettiva => f iniettiva [Con Dimostrazione]
-	* Iniettività
+	* Suriettività
 		* definizione di applicazione suriettiva
 		* [Proposizione] f suriettiva sse il modulo dell'antimmagine del singleton Y non è vuoto [Con Dimostrazione]
 		* [Proposizione] negazione della definizione
@@ -100,10 +100,13 @@
 	* Applicazioni Inverse
 		* [Teorema] se f: A-->B, f ha una sezione sigma e una retrazione p, allora sigma=p è un'inversa di f e inoltre è l'unica [Con Dimostrazione]
 		* Corollario: Come si indica l'inversa di f ? a cosa equivale ? 
-	* Relazioni di Equivalenza
+	* Partizioni & Relazioni di Equivalenza
+		* Cosa è una partizione?
 		* proprietà delle relazioni di equivalenza
 		* come si indica l'insieme delle relazioni di equivalenza?
 		* definizione di classe di equivalenza
+		* Insieme Quoziente
+			* Dimostrazione che esso è € Partz(A)
 		* [Teorema Fondamentale Sulle Partizioni] definizione di biezione canonica e dimostrazione che essa è biettiva
 		* definizione di proiezione canonica, è suriettiva/iniettiva o biettiva?
 		* nucleo di equivalenza e coimmagine di f
@@ -137,3 +140,33 @@
 - Principio di Induzione
 	- Definizione (Formula)
 	- [Teorema con dimostrazione per passo induttivo] (n k) = n! / k!(n-k)!
+
+**CAPITOLO 5: OPERAZIONI E STRUTTURE ALGEBRICHE:**
+- Operazioni Binarie
+	- Cosa è un'operazione binaria ? 
+	- Come si chiama e come è descritta l'immagine dell'operazione binaria?
+	- Associatività e Commutatività dell'operazione binaria
+		- come si chiamano x e y quando l'o.p. è commutativa ?
+	- [Teorema di Associatività]
+	- [Teorema di Commutatività]
+	- Distributività a dx e a sx
+	- Operazione Inversa
+		- Come posso usare la definizione dell'inversa per indicare la commutatività di un operazione binaria ? 
+- Strutture Algebriche
+	- Come si definisce una struttura algebrica?
+		- e una sottostruttura?
+	- Come si stabilisce se una struttura è semigruppo o abeliana?
+		- se è semigruppo, come posso definire le potenze?
+	- Come si ottiene l'operazione binaria indotta su X € P(S): X non vuoto?
+	- [Proposizione con Dimostrazione] due operazioni con potenze
+- Monoidi
+	- Elemento neutro (a sx e a dx)
+	- Definizione di Monoide
+	- Insieme delle Parole
+		- Alfabeto
+		- Insieme delle parole
+		- [Proposizione con Dimostrazione] L'insieme delle parole e l'operatore di concatenazione sono un monoide
+	- Unicità dell'elemento neutro
+	- Elementi Simmetrizzabili
+	- [Proposizione con Dimostrazione] unicità dell'elemento simmetrizzabile
+	- [Proposizione con Dimostrazione] simmetrizzabilità dell'operazione binaria
