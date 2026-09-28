@@ -159,14 +159,31 @@
 		- se è semigruppo, come posso definire le potenze?
 	- Come si ottiene l'operazione binaria indotta su X € P(S): X non vuoto?
 	- [Proposizione con Dimostrazione] due operazioni con potenze
-- Monoidi
-	- Elemento neutro (a sx e a dx)
-	- Definizione di Monoide
-	- Insieme delle Parole
-		- Alfabeto
-		- Insieme delle parole
-		- [Proposizione con Dimostrazione] L'insieme delle parole e l'operatore di concatenazione sono un monoide
-	- Unicità dell'elemento neutro
-	- Elementi Simmetrizzabili
-	- [Proposizione con Dimostrazione] unicità dell'elemento simmetrizzabile
-	- [Proposizione con Dimostrazione] simmetrizzabilità dell'operazione binaria
+	- Monoidi
+		- Elemento neutro (a sx e a dx)
+		- Definizione di Monoide
+		- Insieme delle Parole
+			- Alfabeto
+			- Insieme delle parole
+			- [Proposizione con Dimostrazione] L'insieme delle parole e l'operatore di concatenazione sono un monoide
+		- Unicità dell'elemento neutro
+		- Elementi Simmetrizzabili
+		- [Proposizione con Dimostrazione] unicità dell'elemento simmetrizzabile
+		- [Proposizione con Dimostrazione] simmetrizzabilità dell'operazione binaria
+	- Elementi Cancellabili
+		- Definizione (formula) di traslazione sx e dx di S di ampiezza a
+		- Quando un elemento si dice cancellabile? (anche a sx e a dx)
+			- Come diventa la struttura algebrica? a che condizione?
+				- quando la struttura assume questa "proprietà", quale legge si dice che vale?
+		- [Teorema degli elementi cancellabili con dimostrazione] a simmetrizzabile ==> a cancellabile
+	- Gruppi
+		- Definizione di gruppi
+		- Cos'è un gruppo abeliano ?
+		- Come si definisce il gruppo degli invertibili ? 
+		- Come si definisce l'insieme dei multipli di un certo n nell'insieme (Z, +)?
+		- Definizione di sottogruppo
+			- [Lemma con Dimostrazione]H sottogruppo, allora:
+				- L'elemento neutro di H coincide con quello di G
+				- h € H, h' € H = h^-1 € G
+			- [Corollario] Quando H si dice sottogruppo?
+				  
