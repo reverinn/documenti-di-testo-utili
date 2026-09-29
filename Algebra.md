@@ -186,4 +186,4 @@
 				- L'elemento neutro di H coincide con quello di G
 				- h € H, h' € H = h^-1 € G
 			- [Corollario] Quando H si dice sottogruppo?
-				  
+			- [Teorema con Dimostrazione] Caratterizzazione dei sottogruppi
