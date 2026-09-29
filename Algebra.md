@@ -187,3 +187,48 @@
 				- h € H, h' € H = h^-1 € G
 			- [Corollario] Quando H si dice sottogruppo?
 			- [Teorema con Dimostrazione] Caratterizzazione dei sottogruppi
+	- Parti Chiuse & Generatori
+		- [Proposizione con Dimostrazione] ∩L è una parte chiusa di S
+		- Sottostruttura generata da t
+		- [Teorema della caratterizzazione delle sottostrutture generate da singleton]
+	- Gruppo delle Permutazioni
+		- Gruppo simmetrico (PS: pensa al gruppo (U(T(A))), o)
+		- Cosa è Sn?
+		- Come posso definire un k-ciclo?
+			- come si chiama un ciclo di lunghezza 2?
+			- qual è l'unico ciclo con lunghezza 1?
+			- come si dice un ciclo che ha k >= 2?
+		  - Quando Sym(A) si dice abeliano ?
+	  - Gruppi Ciclici
+		  - sottogruppo ciclico
+			  - detto questo, quando un gruppo si dice ciclico?
+			  - quando parliamo di generatore?
+	  - Omomorfismi tra strutture algebriche 
+		  - quando parliamo di monomorfismo, epimorfismo e isomorfismo?
+		  - [Proposizione con Dimostrazione] f isomorfismo, allora anche l'inversa è un isomorfismo
+		  - [Proposizione con Dimostrazione] f epimorfismo:
+			  1. ⊥ associativo --> * associativo
+			  2. ⊥ commutativo --> * commutativo
+			  3. x elemento neutro a sx in S --> f(x) elemento neutro a sx in T
+		- Tavola di Cayley [isomorfismo tra gruppi di due o tre elementi]
+	  - Anelli
+		  - Definizione di anello
+		  - quando parliamo di anello abeliano? e anello unitario ? 
+		  - [Proposizione con dimostrazione] a + b = a + c --> b = c
+		  - [Proposizione con dimostrazione] Sia A un anello unitario e a,b € A, allora:
+			1. Esiste ed è unico l'elemento neutro
+			2. 0a per a = a per 0a = 0a
+			3. a(-b) = -(ab) = (-a)b
+			4. (-a)(-b) = ab
+		- [Teorema] Binomio di Newton
+		- Definizione di sottoanello
+		- Quando parliamo di elementi cancellabili o simmetrizzabili in un anello?
+		- Quando un a € A si dice divisore dello zero?
+		- [Teorema con dimostrazione] a divisore sinistro dello zero --> a non cancellabile a sx in (A, .)
+		- [Teorema con dimostrazione] |A| > 1 --> 0A è divisore dello zero
+		- Definizione di anello integro & di dominio di integrità
+		- [Teorema con dimostrazione] A è un dominio di integrità sse non ha divisori dello zero
+		- Definizione di corpo & campo commutativo
+		- [Proposizione con dimostrazione orale] ogni campo è un dominio di integrità
+			- Vale il contrario ? [Esempio: ($(\mathbb{Z}, +, \cdot)$), 2 € Z]
+			- Dimostra che un dominio di integrità finito ha un inverso per ogni suo elemento non nullo, il ché lo rende un campo
