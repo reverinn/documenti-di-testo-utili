@@ -270,3 +270,14 @@
 		- Diagramma di Hasse
 			- Come si ottiene ?
 			- Come si ottiene il duale ? 
+- Maggioranti, minoranti, estremo superiore ed estremo inferiore
+	- Definizione di minorante e maggiorante
+	- Quando una parte non vuota di S si dice inferiormente o superiormente limitata?
+	- Definizione dell'insieme dei minoranti e dell'insieme dei maggioranti
+	- [Teorema] E' equivalente dire che : 
+		1. a ≤ b
+		2. a € {a,b} (minoranti)
+		3. a = min {a,b}
+		4. a = inf{a,b}
+	- [Osservazione] inf({a,b}) = MCD(a,b) = massimo dei minoranti
+				 sup({a,b}) = mcm(a,b) = minimo dei maggioranti
