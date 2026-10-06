@@ -232,3 +232,19 @@
 		- [Proposizione con dimostrazione orale] ogni campo è un dominio di integrità
 			- Vale il contrario ? [Esempio: ($(\mathbb{Z}, +, \cdot)$), 2 € Z]
 			- Dimostra che un dominio di integrità finito ha un inverso per ogni suo elemento non nullo, il ché lo rende un campo
+
+**CAPITOLO 6: RETICOLI E ALGEBRA DI BOOLE**
+- Relazioni d'ordine
+	- quando un'operazione binaria si dice una relazione d'ordine largo e quando si dice una relazione d'ordine stretto?
+	  - Con che simbolo si indica una relazione d'ordine in un insieme S non vuoto?
+	  - [Proposizione con Dimostrazione] Siano OL(A) le relazione d'ordine largo in A e OS(A) quelle di ordine stretto, allora posso definire , per ogni p € OL(A), p != € Rel(A) tale che per ogni x,y: x p!= y <==> (x p y /\ x != y)
+	  - [Proposizione con Dimostrazione] Definita alfa € OS(A), definiamo alfa= € Rel(A) tale che, per ogni x,y € A avremo che x alfa= y <==> x alfa y V x = y
+	  - [Proposizione con Dimostrazione] Le applicazioni:
+	    1. p € OL(A) --> p!= €OS(A)
+	    2. σ € OS(A) --> σ= €OL(A)
+		sono biettive e una l'inversa dell'altra (Tip: usa il grafico della relazione duale di p)
+	- Cosa è la relazione d'inclusione ? 
+	- Cosa è un insieme ordinato (parzialmente)?
+		- Quando invece parliamo di elementi confrontabili ? 
+			- Detto questo, quando un insieme si dice ordinato totalmente?
+	 - Quando un' applicazione si dice crescente?
