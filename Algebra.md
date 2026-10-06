@@ -248,3 +248,8 @@
 		- Quando invece parliamo di elementi confrontabili ? 
 			- Detto questo, quando un insieme si dice ordinato totalmente?
 	 - Quando un' applicazione si dice crescente?
+	 - [Teorema] Isomorfismi tra insiemi ordinati
+- Minimo, massimo, minimali & massimali
+	- Definizioni di minimo, minimale, massimo & massimale
+	- [Proposizione con dimostrazione] x minimo è anche l'unico minimale
+	- [Teorema con Dimostrazione] Sia 
