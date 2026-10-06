@@ -252,4 +252,21 @@
 - Minimo, massimo, minimali & massimali
 	- Definizioni di minimo, minimale, massimo & massimale
 	- [Proposizione con dimostrazione] x minimo è anche l'unico minimale
-	- [Teorema con Dimostrazione] Sia 
+	- [Teorema con Dimostrazione] Sia (S, ≤) un insieme ordinato finito non vuoto, allora ammette minimali e massimali
+- Intervalli e coperture
+	- Definisci i tipi di intervalli
+	- Quando, per a,b € S b copre a ? 
+	- [Lemma] E' equivalente dire che:
+		1. a è coperto da b
+		2. non esiste c tra a e b
+		3. a è un massimale in ({x € S | x < b}, ≤)
+		4. b è un minimale in ({x € S | a < x}, ≤)
+	- Relazione di copertura
+		- Come l'operatore di copertura *determina* ≤ ? 
+		- [Teorema con Dimostrazione] Sia (S, ≤) un insieme d'ordine finito, allora dire che a ≤ b sse dati n € N elementi x1...xn allora:
+			1. x1 = a
+			2. xn = b
+			3. Per ogni j € {i € N | i < n} (xj è coperto da xj+1)
+		- Diagramma di Hasse
+			- Come si ottiene ?
+			- Come si ottiene il duale ? 
