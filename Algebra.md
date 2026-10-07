@@ -237,7 +237,7 @@
 - Relazioni d'ordine
 	- quando un'operazione binaria si dice una relazione d'ordine largo e quando si dice una relazione d'ordine stretto?
 	  - Con che simbolo si indica una relazione d'ordine in un insieme S non vuoto?
-	  - [Proposizione con Dimostrazione] Siano OL(A) le relazione d'ordine largo in A e OS(A) quelle di ordine stretto, allora posso definire , per ogni p € OL(A), p != € Rel(A) tale che per ogni x,y: x p!= y <==> (x p y /\ x != y)
+	  - [Proposizione con Dimostrazione] Siano OL(A) le relazione d'ordine largo in A e OS(A) quelle di ordine stretto, allora posso definire , per ogni p € OL(A), p != € Rel(A) tale che per ogni x,y: x p!= y <==> (x p y /\ x != y) € OS(A)
 	  - [Proposizione con Dimostrazione] Definita alfa € OS(A), definiamo alfa= € Rel(A) tale che, per ogni x,y € A avremo che x alfa= y <==> x alfa y V x = y
 	  - [Proposizione con Dimostrazione] Le applicazioni:
 	    1. p € OL(A) --> p!= €OS(A)
@@ -281,3 +281,9 @@
 		4. a = inf{a,b}
 	- [Osservazione] inf({a,b}) = MCD(a,b) = massimo dei minoranti
 				 sup({a,b}) = mcm(a,b) = minimo dei maggioranti
+ - Reticoli
+	 - Definizione di reticolo
+	 - [Proposizione con Dimostrazione] (S, ≤) insieme parzialmente ordinato, a € S è minorante sse a = min(S, ≤)
+	 - Definizione di Reticolo limitato e Reticolo completo
+		 - Che relazione c'è tra i due ? 
+	- [Proposizione con dimostrazione] $(X U Y)^\downarrow$ = $X^\downarrow$  ∩ $Y^\downarrow$ = $\{x\}^\downarrow$ ∩ $\{y\}^\downarrow$ = $\{x,y\}^\downarrow$ 
