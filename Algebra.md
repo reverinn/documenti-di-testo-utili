@@ -287,3 +287,9 @@
 	 - Definizione di Reticolo limitato e Reticolo completo
 		 - Che relazione c'è tra i due ? 
 	- [Proposizione con dimostrazione] $(X U Y)^\downarrow$ = $X^\downarrow$  ∩ $Y^\downarrow$ = $\{x\}^\downarrow$ ∩ $\{y\}^\downarrow$ = $\{x,y\}^\downarrow$ 
+	- [Corollario con dimostrazione] (S, ≤) reticolo, allora ogni sua parte finita è dotata di estremo inferiore e superiore 
+	- Operazioni Reticolari
+- Sottoreticoli
+	- Definizione di sottoreticoli
+	- Come sono gli intervalli chiusi di un reticolo ? 
+	- 
