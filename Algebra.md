@@ -289,7 +289,25 @@
 	- [Proposizione con dimostrazione] $(X U Y)^\downarrow$ = $X^\downarrow$  ∩ $Y^\downarrow$ = $\{x\}^\downarrow$ ∩ $\{y\}^\downarrow$ = $\{x,y\}^\downarrow$ 
 	- [Corollario con dimostrazione] (S, ≤) reticolo, allora ogni sua parte finita è dotata di estremo inferiore e superiore 
 	- Operazioni Reticolari
-- Sottoreticoli
-	- Definizione di sottoreticoli
-	- Come sono gli intervalli chiusi di un reticolo ? 
-	- 
+		- [Proposizione] Proprietà delle operazioni reticolari
+		- [Proposizione con Dimostrazione] Sia (S, V, /\\) un insieme munito di due operazioni che verificano la proprietà:
+			1. Commutativa
+			2. Associativa
+			3. Assorbimento
+		 Allora la relazione p su S definita come a p b < == > a V b è una relazione d'ordine in S (stesso per a /\ B).
+		 Inoltre, S munito di tale relazione d'ordine è tale che :
+		 1. sup({a,b}) = a V b
+		 2. inf({a,b}) = a /\\ b
+		 - Nuova definizione di reticolo & operazioni di Meet and Join
+		 - [Teorema IMPORTANTE con Dimostrazione] Omomorfismo tra isomorfismi d'ordine e isomorfismi algebrici
+	- Sottoreticoli
+		- Definizione di sottoreticoli
+		- Come sono gli intervalli chiusi di un reticolo ? 
+		- E' vero che ogni sottoreticolo è un reticolo?
+			- E' vero anche il contrario ?
+		- Omomorfismo tra reticoli
+	- Dualita' reticolare
+		- quando parliamo di reticolo duale?
+	- Reticolo complementato
+		- Cosa è un complemento di un elemento di un reticolo finito ? 
+		- Quando un reticolo si dice complementato?
