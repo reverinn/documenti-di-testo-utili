@@ -311,3 +311,33 @@
 	- Reticolo complementato
 		- Cosa è un complemento di un elemento di un reticolo finito ? 
 		- Quando un reticolo si dice complementato?
+		- [Proposizione con dimostrazione] dato un reticolo limitato distributivo, allora ogni a € S ha un complemento unico
+	- Reticolo pentagonale e triettangolo
+		- Definizioni
+		- A cosa sono utili? [P.S: Diagramma di Hasse]
+		- Criterio di Birkhoff
+  - Strutture Booleane
+	-  Quando un anello unitario si dice booleano ? 
+	-  Caratteristica di un anello booleano
+	-  Qual è il caso in cui un anello abbia caratteristica 2 ? 
+		- [Proposizione con dimostrazione] Sia A un anello booleano commutativo, allora se |A|  > 1, ha caratteristica 2
+	- [Teorema] Teorema di Stone
+	- [Corollario con Dimostrazione] Sia R un anello booleano finito, allora:
+		1. Esiste un n naturale tale che |R| = 2^n 
+		2. A anello booleano idempotente a R, allora A è isomorfo a R
+	- Reticoli Booleani
+		- Quando un reticolo si dice booleano ?
+		- Cosa deve valere se invece del reticolo ho la struttura algebrica associata?
+		- E' vero che un insieme totalmente ordinato di massimo due elementi è un reticolo booleano ? 
+- Algebra di Boole
+	- Definizione di Algebra di Boole
+	- Che collegamento ha con un reticolo booleano ? 
+	- Definizione di sottoalgebra di Boole
+		- Il collegamento menzionato precedentemente, è saldo anche per quanto riguarda le sottoalgebre e i sottoreticoli booleani ?
+	  - [Proposizione con Dimostrazione] Data un algebra di Boole, per ogni a,b € L vale:
+	    1. a V 1 = 1 e a /\ 0 = 0
+	    2. 1' = 0 /\ 0' = 1
+	    3. (a')' = a
+	    4. (a V b)' = a' /\ b'
+	    5. (a /\ b)' = a' V b'
+	    6. 
