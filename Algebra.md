@@ -340,4 +340,10 @@
 	    3. (a')' = a
 	    4. (a V b)' = a' /\ b'
 	    5. (a /\ b)' = a' V b'
-	    6. 
+- Anelli Booleani & Algebra di Boole
+	- Come posso arrivare a un reticolo booleano partendo da un anello booleano [Ricorda: P(S)]
+	- [Proposizione con Dimostrazione] (R, V, . 0R, 1R, ') è un algebra di Boole
+	- Come faccio ad arrivare a un anello booleano usando l'algebra di Boole ?
+	- [Lemma con Dimostrazione] Sia (L, V, /\, 0, 1, ') un algebra di Boole, allora vale (a /\ b') V (a' /\ b) = (a /\ b') V (a V b)'
+	  - [Teorema] Teorema di Stone: Enunciato
+		  - Dimostra che studiare l'anello delle parti non è altro che lavorare con l'anello Zn2, cioè l'insieme di stringhe composte da n bit (0,1)
