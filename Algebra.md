@@ -347,3 +347,16 @@
 	- [Lemma con Dimostrazione] Sia (L, V, /\, 0, 1, ') un algebra di Boole, allora vale (a /\ b') V (a' /\ b) = (a /\ b') V (a V b)'
 	  - [Teorema] Teorema di Stone: Enunciato
 		  - Dimostra che studiare l'anello delle parti non è altro che lavorare con l'anello Zn2, cioè l'insieme di stringhe composte da n bit (0,1)
+
+
+**CAPITOLO 7: ARITMETICA & POLINOMI:**
+- Insieme Ben Ordinati
+	- Definizione di relazione di buon ordine
+		- Come viene detto poi l'insieme ? 
+	- [Proposizione con Dimostrazione] Dato S non vuoto, allora ≤ è una relazione d'ordine totale
+	- Definizione di relazione di ordine naturale
+		- Perchè usiamo come esempio i numeri naturali [Mini-Dimostrazione Teorica]
+	- [Dimostrazione] Dimostrazione per assurdo del principio di induzione
+	- [Proposizione] Principio di Induzione Forte
+		- Che differenza c'è con quello normale? 
+	- 
