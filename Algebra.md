@@ -371,4 +371,7 @@
 		- Quali si dicono banali e quali propri?
 		- Quando un elemento a si dice *irriducibile?*
 - Fattorizzazione in irriducibili
-	- 
+	- **Teorema Fondamentale dell'Aritmetica** 
+	- Quando un monoide commutativo si dice *fattoriale*?
+	- Quando un anello non vuoto si dice *fattoriale*?
+	- [Lemma con dimostrazione] Qualsiasi numero diverso da 0, 1 e -1 è prodotto di numeri primi.
