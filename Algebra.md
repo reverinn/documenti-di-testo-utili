@@ -359,4 +359,16 @@
 	- [Dimostrazione] Dimostrazione per assurdo del principio di induzione
 	- [Proposizione] Principio di Induzione Forte
 		- Che differenza c'è con quello normale? 
+- Divisibilità e Fattorizzazione
+	- Come si definisce la relazione di divisibilità in un monoide commutativo ? 
+	- [Proposizione con dimostrazione] Dato (S, .) un semigruppo, allora | è transitiva
+	- [Proposizione con dimostrazione] Se invece è un monoide, | € OL(S) sse è anti-simmetrica
+	- La relazione di associazione tra due elementi di S è una relazione d'equivalenza ? 
+	- [Proposizione con dimostrazione] a ~ b sse Div(a) = Div(b)
+	- [Proposizione con dimostrazione] u € U(M), a € M, vale: a ~ au
+	- [Proposizione con dimostrazione]  [a]~ = {au | u € U(M)}
+	- Quali sono i divisori di a ? 
+		- Quali si dicono banali e quali propri?
+		- Quando un elemento a si dice *irriducibile?*
+- Fattorizzazione in irriducibili
 	- 
