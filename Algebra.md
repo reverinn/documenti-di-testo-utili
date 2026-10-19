@@ -375,3 +375,12 @@
 	- Quando un monoide commutativo si dice *fattoriale*?
 	- Quando un anello non vuoto si dice *fattoriale*?
 	- [Lemma con dimostrazione] Qualsiasi numero diverso da 0, 1 e -1 è prodotto di numeri primi.
+	- [Lemma di Gauss con dimostrazione]
+	- [Proposizione] costruzione di un divisore generale di alfa
+	- [Lemma con Dimostrazione] R anello commutativo, allora per ogni a,b,c € R a|b /\ a|c ==> per ogni u,v € R tali che a | bu + cv
+	- Definizione di MCD e mcm
+		- Sono unici?
+		- Come si calcola in maniera semplice il massimo comune divisore tra 0 e un numero intero arbitrario ? 
+	  - [Teorema delle divisioni col resto con dimostrazione]
+	  - [Lemma con dimostrazione] MCD(a,b) = MCD(b,r)
+	  - Algoritmo euclideo delle divisioni successive [Svolgimento]
