@@ -384,3 +384,14 @@
 	  - [Teorema delle divisioni col resto con dimostrazione]
 	  - [Lemma con dimostrazione] MCD(a,b) = MCD(b,r)
 	  - Algoritmo euclideo delle divisioni successive [Svolgimento]
+  - Equazioni diofantee
+	  - Definizione di equazione diofantea
+	  - Che vuol dire risolvere un'equazione diofantea? 
+	  - [Teorema con Dimostrazione] Teorema di Bezout
+		  - [Lemma con dimostrazione] a | bc ==> a | c (PS: usa il teorema di bezout)
+- Struttura Quoziente
+	- Definizione di compatibile a sx e a dx
+	- Quando R si dice una congruenza?
+		- Definisci l'operazione quoziente
+		- Definisci la struttura quoziente
+		- [Proposizione] 4 collegamenti tra l'operazione e l'operazione quoziente
