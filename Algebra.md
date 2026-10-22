@@ -395,3 +395,52 @@
 		- Definisci l'operazione quoziente
 		- Definisci la struttura quoziente
 		- [Proposizione] 4 collegamenti tra l'operazione e l'operazione quoziente
+- Congruenze in Z
+	- Definizione di congruenza modulo m 
+	- Dimostra che è una relazione di equivalenza
+	- Classi di congruenza
+		- Quando un elemento b € [a]m? 
+			- Come è definita quindi la classe di congruenza ? 
+		- Come è definita [0]m ? 
+		- Come è definito l'insieme quoziente ?
+			- Che nome assume ? 
+	- [Proposizione con dimostrazione] Sia m > 1 un numero intero, allora a $\equiv_m$ r dove r è il resto della divisione 
+	- [Teorema] Sia m > 1 un numero intero, allora |Zm| = m e Zm ={[0]m, [1]m, .... [m-1]m}
+	- [Corollario] $a \equiv_m b$ <==> a e b hanno stesso resto nella divisione euclidea
+	- [Proposizione con dimostrazione] $a \equiv_m a'$ e $b \equiv_m b'$  ==> ($a + b \equiv_m a' + b'$) 
+		- [Proposizione] vale anche per il prodotto
+	- [Teorema] qualsiasi sia m intero relativo, la relazione di equivalenza $\equiv_m$ è anche una relazione di congruenza in (Z, +, .)
+		- Le uniche congruenze in questa struttura sono le congruenze in modulo m
+			- Detto questo, cosa ci permette di introdurre questo teorema nell'insieme Zm?
+			- Dimostra che (Zm, +, .) è in realtà un anello
+	- Quando vale la legge di annullamento in Zm?
+	- [Proposizione con dimostrazione] a € Z, m € N*, [a]m è invertibile sse a ed m sono coprimi
+	- [Corollario] Siano a € Z, m € N* e sia [a]m diverso dall'elemento nullo, allora [a]m è invertibile sse non è un divisore dello zero
+	- [Teorema con dimostrazione] Teorema di caratterizzazione anello degli interi modulo m:
+		E' equivalente dire che:
+		1. Zm è un campo
+		2. Zm è un dominio di integrita
+		3. m è un numero primo
+	- [Corollario] Gli elementi di Zm sono tutti invertibili sse m è primo
+	- [Lemma con dimostrazione] Sia G = <$x$> un gruppo ciclico, allora esso è finito sse esiste m tale che x\^m = 1
+		- Teorema ponte
+	- Elemento Periodico
+		- Definizione di elemento periodico
+		- Come si chiama l'ordine dell'elemento periodico?
+			- Come si indica ? 
+			- [Lemma con Dimostrazione] x^a = x^rest(a,n) 
+			- [Proposizione con Dimostrazione] x^a = x^b è equivalente a dire che a $\equiv_n$ b ed è equivalente a dire che rest(a,n) = rest(b,n)
+	- Funzione di Eulero
+		- Come è definita ? 
+		- Cosa definisce ? 
+	- [Dimostrazione] dimostra che gli unici gruppi ciclici finiti tali che x\^m = 1 sono i gruppi additivi (Zm, +)
+	- [Corollario con Dimostrazione] L'anello (Zm, +, .) ha per caratteristica m.
+	- Equazioni Congruenzali
+		- Definizione di equazione congruenzale
+			- Quando quindi [a]m è invertibile?
+		- Criterio di Compatibilità [Dimostrazione]
+		- [Proposizione] a/tx $\equiv_m/t$ b/t
+		- [Corollario] elenco di soluzioni non congruenti
+		- Quando la congruenza lineare ammette una sola soluzione?
+		- [Proposizione con Dimostrazione] c soluzione a ax $\equiv_m$ 1, allora cb soluzione a ax $\equiv_m$ b 
+		- [Proposizione con Dimostrazione] ax $\equiv_m$ b e MCD(a,m) = 1 allora l'equazione ha soluzioni che costituiscono una classe di resto modulo m
